@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">app-repaso-def</string>
+    <string name="emptySpace"> </string>
+    <string name="uniagustiniana">A la Uniagustiniana</string>
+    <string name="vamos">¡Vamos!</string>
+    <string name="questionUser">¿Quien eres?</string>
+    <string name="studenCode">Tu código de estudiante:</string>
+    <string name="studentName">Tu nombre:</string>
+    <string name="usersStudentCode">Código de estudiante:</string>
+    <string name="usersName">Nombre:</string>
+    <string name="look4grades">¡Consulta tu nota definitiva!</string>
+    <string name="goBack">Regresar</string>
+    <string name="finalGrade">Nota Defininitiva</string>
+</resources>
